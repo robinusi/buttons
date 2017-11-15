@@ -1,0 +1,38 @@
+
+/*navigation*/
+nav.navigation {
+  background-color: #33FFC1;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Galada', cursive;
+  color: black;
+}
+nav.navigation li {
+  display: inline-block;
+ }
+a:hover { 
+    background-color: yellow;
+}
+
+button{
+	text-align: center;
+}
+#btn1 {
+  background-color: #3383F;
+  border: 1px solid; white;
+  border-radius: 4px;
+  color: #E2F89C;
+}
+#btn1:hover {
+  background-color: #3383FF;
+  border: 1px solid #3383FF;
+  color: #3F7CAC;
+}
+#btn2 {
+  background-color: #F933FF;
+  border: 1px solid #F933FF;
+  border-radius: 10px;
+  color: #56A3A6;
+  padding: 15px;
+}
